@@ -1,0 +1,20 @@
+{
+  "name": "minesweeper-game",
+  "version": "1.0.0",
+  "description": "A simple Minesweeper game implemented in JavaScript.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "live-server public"
+  },
+  "keywords": [
+    "minesweeper",
+    "game",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
